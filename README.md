@@ -33,7 +33,7 @@ Issued by Amazon Web Services · 2024
 
 - 🔗 **Portfolio** · [thanhpham.site](https://thanhpham.site)
 - 💼 **LinkedIn** · [phamvanthanh-sa-aws](https://www.linkedin.com/in/phamvanthanh-sa-aws)
-- ✉️ **Email** · robertthanh1107@gmail.com
+- ✉️ **Email** · phamvanthanh.aws@gmail.com
 
 ---
 
